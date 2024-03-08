@@ -1,2 +1,2 @@
 # odin-recipes
-I am gonna make recipes for popular foods.
+Famous Filipino recipes 
