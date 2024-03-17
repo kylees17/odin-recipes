@@ -1,0 +1,26 @@
+/* adobo.css */
+
+.main
+{
+  background-color: white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;  
+}
+#child
+{
+    font-size: 25px;
+    text-align: left;
+    color: blue;
+}
+#list.childs
+{
+    text-align: left;
+    font-size: 15px;
+
+}
+.steps
+{
+    color: blueviolet;
+    font-size: 20px;
+}
